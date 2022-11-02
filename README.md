@@ -5,6 +5,7 @@
 
 I know a little bit of:
 -  Python
+-  C++
 -  Java
 -  Javascript (React)
 -  MATLAB
